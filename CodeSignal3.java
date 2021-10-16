@@ -1,4 +1,4 @@
-public class three {
+public class CodeSignal3 {
     public boolean checkPalindrome(String inputString) {
     
         int len = inputString.length();

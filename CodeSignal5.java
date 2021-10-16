@@ -1,4 +1,4 @@
-public class five {
+public class CodeSignal5 {
     int shapeArea(int n) {
         int ans = 1;
         

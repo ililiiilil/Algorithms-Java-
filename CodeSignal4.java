@@ -1,4 +1,4 @@
-public class four {
+public class CodeSignal4 {
     int adjacentElementsProduct(int[] inputArray) {
         int ans = inputArray[0] *inputArray[1];
         int len = inputArray.length;
